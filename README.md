@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 
 </br>
-<img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"  width="400vw">
+<img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"  width="500vw">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47rcunjewp8bkz6txm13jo6ght7jbbo1std16e8z54&rid=giphy.webp&ct=g" width="20"> **About Me**
