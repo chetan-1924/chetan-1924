@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 
-</br>
-<img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"  width="500vw">
-</br>
+<img align="right"  alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"  width="400vw">
+
 
 ## &nbsp; &nbsp;<img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47rcunjewp8bkz6txm13jo6ght7jbbo1std16e8z54&rid=giphy.webp&ct=g" width="20"> **About Me**
 
-Hello, I’m Chetan, A budding developer and Algorithms enthusiast 🤵‍. I am working on React JS, Qiskit, and NetLogo and planning to Dive deep into languages like C++ and Python. Formula 1 fan? Hell yeah! Everyone loves a winner 🤴. That’s just how the world is 👊. Not a philosopher but It's never too late to learn 😀.
+Hello, I’m Chetan, A budding developer and Quantum Algorithms enthusiast 🤵‍. I am working on React JS, Qiskit, and NetLogo and planning to Dive deep into languages like C++ and Python. VsCode? always and forever. Formula 1 fan? Hell yeah! There's no such thing as peace in Formula 1.Everyone loves a winner 🤴. That’s just how the world is 👊. Not a philosopher but It's never too late to learn 😀.
 
-"Really, you should always discuss the defeats because you can learn much more from failure than from success." - Niki Lauda 
+"Really, you should always discuss the defeats because you can learn much more from failure than from success." - Niki Lauda
+<br/>
+<br/>
+<br/>
 
 ## 🛠️ **Languages & Tools:**
 
@@ -23,6 +25,7 @@ Hello, I’m Chetan, A budding developer and Algorithms enthusiast 🤵‍. I am
 ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-ffb400?style=for-the-badge&logo=java&logoColor=ffff3f)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
 ## 📫 **Link Tree:**
 
 <p align="center">
