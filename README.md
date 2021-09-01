@@ -5,7 +5,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47rcunjewp8bkz6txm13jo6ght7jbbo1std16e8z54&rid=giphy.webp&ct=g" width="20"> **About Me**
 
-Hello, I’m Chetan, A budding developer and Quantum Algorithms enthusiast 🤵‍. I am working on React JS, Qiskit, and NetLogo and planning to Dive deep into languages like C++ and Python. VsCode? always and forever. Formula 1 fan? Hell yeah! There's no such thing as peace in Formula 1.Everyone loves a winner 🤴. That’s just how the world is 👊. Not a philosopher but It's never too late to learn 😀.
+I’m Chetan, A budding developer and Quantum Algorithms enthusiast 🤵‍. I am working on React JS, Qiskit, and NetLogo and planning to Dive deep into languages like C++ and Python. VsCode? always and forever. Formula 1 fan? Hell yeah! There's no such thing as peace in Formula 1.Everyone loves a winner 🤴. That’s just how the world is 👊. Not a philosopher but It's never too late to learn 😀.
 
 "Really, you should always discuss the defeats because you can learn much more from failure than from success." - Niki Lauda
 <br/>
