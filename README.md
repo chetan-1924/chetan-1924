@@ -3,7 +3,9 @@
 <img align="right"  alt="Coding" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w"  width="400vw">
 
 
-## &nbsp; &nbsp;<img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47rcunjewp8bkz6txm13jo6ght7jbbo1std16e8z54&rid=giphy.webp&ct=g"> **About Me**
+## &nbsp; &nbsp;
+<!-- <img src="https://media1.giphy.com/media/nGMnDqebzDcfm/giphy.webp?cid=ecf05e47rcunjewp8bkz6txm13jo6ght7jbbo1std16e8z54&rid=giphy.webp&ct=g"> -->
+**About Me**
 
 I’m Chetan, A budding developer and Quantum Algorithms enthusiast 🤵‍. I am working on React JS, Qiskit, and NetLogo and planning to Dive deep into languages like C++ and Python. VsCode? always and forever. Formula 1 fan? Hell yeah! There's no such thing as peace in Formula 1.Everyone loves a winner 🤴. That’s just how the world is 👊. Not a philosopher but It's never too late to learn 😀.
 
